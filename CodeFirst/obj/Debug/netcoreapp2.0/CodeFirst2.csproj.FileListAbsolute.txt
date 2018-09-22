@@ -1,0 +1,11 @@
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\bin\Debug\netcoreapp2.0\CodeFirst2.deps.json
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\bin\Debug\netcoreapp2.0\CodeFirst2.runtimeconfig.json
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\bin\Debug\netcoreapp2.0\CodeFirst2.runtimeconfig.dev.json
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\bin\Debug\netcoreapp2.0\CodeFirst2.dll
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\bin\Debug\netcoreapp2.0\CodeFirst2.pdb
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.csprojResolveAssemblyReference.cache
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.csproj.CoreCompileInputs.cache
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.AssemblyInfoInputs.cache
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.AssemblyInfo.cs
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.dll
+C:\Users\Navlesh\source\repos\myDemo\CodeFirst\CodeFirst2\obj\Debug\netcoreapp2.0\CodeFirst2.pdb
